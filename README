@@ -1,6 +1,6 @@
-the goal is to build a media server experience in html5 served tunned to run from the raspberry pi
+<h2>the goal is to build a media server experience in html5 served from the raspberry pi</h2>
 
-for now we are using and learning
+for now we are using and learning...
 
 Node.js with modules:
     Express
@@ -10,7 +10,7 @@ Node.js with modules:
     
 
 all this app is being coded using open source software and a running from raspberry_Pi
-you can try to browse the last stable version if it's working at
+you can try to browse the last stable version if it's working at:
 
 http://raspberrypi.ruimarinho.pt
     
@@ -18,4 +18,5 @@ EXAMPLES:
 
 http://raspberrypi.ruimarinho.pt/files
 
-Uses sockets to update the ui with the results that are coming
+Uses socket.io to update the ui with the results that are coming from findit.
+Findit is finding folders in my nas.
